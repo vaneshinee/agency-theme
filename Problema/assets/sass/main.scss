@@ -1,0 +1,138 @@
+header {
+    background-image: url(../../img/header-bg.jpg);
+    background-repeat: none;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: #fff;
+    padding:22% 0%;
+    .btn{
+        color: #ffffff;
+        background-color: #fed136;
+        border-color: #fed136;
+        font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 700;
+        border-radius: 3px;
+        font-size: 18px;
+        padding: 20px 40px;
+    }
+
+}
+.navbar-header h1{
+    color: #fed136;
+    font-family: "Kaushan Script","Helvetica Neue";
+}
+li  {
+    position: relative;
+    display: inline-block;
+}
+    .intro-text .intro-lead{
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: italic;
+    font-size: 60px;
+    line-height: 40px;
+    margin-bottom: 25px;
+}
+.intro-heading{
+    font-family: "Montserrat";
+    font-weight:700px;
+    font-size: 70px;
+}
+.services{
+    padding:6%;
+    h2{
+        padding:2%;
+    }
+
+.fa-shopping-cart, .fa-laptop, .fa-lock {
+    font-size:55px;
+    background:yellow;
+    padding:5%;
+    border-radius:50%;
+    color:white;
+}
+.fa-lock{
+    padding: 6% 9%;
+}
+.fa-shopping-cart{
+    padding: 5% 6%;
+}
+}
+.portfolio{
+    background: #D2D2D4;
+    padding:5%;
+    .imagen{
+        background:white;
+        padding-bottom: 4%;
+        margin:5%;
+        img{
+            width:100%;
+        }
+    }
+}
+.amazing-team{
+    background: #D2D2D4;
+    padding:8%;
+    .team{
+        img {
+            width:60%;
+            border-radius:80%;
+            border:8px solid white;
+        }
+        .fa{
+            margin:3px;
+            background:black;
+            padding:3%;
+            border-radius:50%;
+            color:White;
+            font-size:18px;
+        }
+        .fa-facebook{
+            padding:3% 4%;
+        }
+    }
+
+}
+.about{
+    padding:40%;
+}
+.auspicio{
+padding: 3%;
+}
+.contacto{
+    padding:6%;
+    background:#222222;
+    .form-control{
+        padding:6%;
+        margin-bottom: 3%;
+    }
+    textarea{
+        width:550px; 
+        height:240px;  
+        border-radius:5px; 
+    }
+}
+footer{
+    padding:2%;
+    span{
+        padding:4%;
+        color:#FED136;
+        font-weight:bolder;
+    }
+    .fa{
+            margin:3px;
+            background:black;
+            padding:3%;
+            border-radius:50%;
+            color:White;
+            font-size:18px;
+        }
+    .fa-facebook{
+            padding:3% 4%;
+        }
+
+}
